@@ -45,8 +45,8 @@ ChatGpt was the guide throught this course especially fetching the fahrenhit dat
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@Fave-Code2](https://github.com/Fave-code2)
+- Website - [faveweatherapp](https://faveweatherapp.netlify.app/)
+- Frontend Mentor - [@Fave-Code2](https://www.frontendmentor.io/profile/Fave-code2)
 - Instagram - [@fave_codes](https://www.instagram.com/fave_codes?igsh=cDdmZmZleDlwcHNp&utm_source=qr)
 
 ## Acknowledgments

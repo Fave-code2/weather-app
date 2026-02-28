@@ -81,16 +81,16 @@ unitToggle.addEventListener('click', async () => {
   isMetric = !isMetric;
   unitToggle.textContent = isMetric ? 'Switch to Imperial' : 'Switch to Metric';
 
-  const fahrenheit = document.querySelectorAll('.fahrenheit');
-  const celsius = document.querySelectorAll('.celsius');
+  // const fahrenheit = document.querySelectorAll('.fahrenheit');
+  // const celsius = document.querySelectorAll('.celsius');
 
-  if (unitToggle.textContent === 'Switch to Metric') {
-    celsius.classList.remove('hidden');
-    fahrenheit.classList.add('hidden');
-  } else {
-    celsius.classList.add('hidden');
-    fahrenheit.classList.remove('hidden');
-  }
+  // if (unitToggle.textContent === 'Switch to Metric') {
+  //   celsius.classList.remove('hidden');
+  //   fahrenheit.classList.add('hidden');
+  // } else {
+  //   celsius.classList.add('hidden');
+  //   fahrenheit.classList.remove('hidden');
+  // }
 
   if (!weatherDataGlobal) return;
 
